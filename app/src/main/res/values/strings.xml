@@ -5,4 +5,86 @@
     <string name="category_tourist_attraction">Tourist Attractions</string>
     <string name="category_cities_distance">Cities Distance</string>
     <string name="category_tourist_calendar">Tourist Calendar</string>
+
+    <string name="enero">Se realizan diferentes actividades cívicos y culturales, verbenas populares, quema de fuegos artificiales,
+        visitas guiadas, pasacalles, festival gastronómico, etc.</string>
+    <string name="febrero">Carnavales en Lima: caracterizado por el juego con agua y picapica todos los fines de semana de este mes,
+        presentación de corso de carros alegóricos y cortamontes en barrios y clubes provinciales.</string>
+    <string name="abril">Semana Santa en Lima. Festividad tradicional de mayor fevor popular en el Perú, desde años inmemoriables,
+        se desarrollan procesiones diversas que recuerdan a la Pasión y Muerte de Jesucristo durante 08 días.</string>
+    <string name="mayo">Fiesta de la cruz.</string>
+    <string name="junio">Fiesta de San Pedro y San Pablo en las localidades de Chorrillos y Lurín; elegido como patrón de los pescadores
+        y se le rinde homenaje en las caletas costeras</string>
+    <string name="julio">Aniversario patrio, en todo el Perú, se realizan actividades cívico-militares; desfile en todo el territorio patrio,
+        además son populares las ferias regionales y locales, los conciertos folklóricos (andinos y criollos) con presentación de grupos de rock.
+        Durante estas fechas son muy usuales también observar los circos instalados en diferentes regiones del Perú.</string>
+    <string name="agosto">Proclamada Patrona de las Américas y las Filipinas, es la Patrona de la Policía Nacional del Perú.
+Durante esta fecha se acostumbra realizar la tradicional peregrinación al poblado de Quives,
+        celebraciones religiosas que recuerdan la vida y milagros de la santa Limeña.</string>
+    <string name="octubre">Durante todo el mes se desarrollan diversas procesiones en donde miles de feligreses vestidos de hábitos morados
+        cantan y rezan en las procesiones. Esta procesión es considera como la procesión católica más grande América. En la plaza de Acho se
+        realiza la feria taurina del mismo nombre que congrega a reconocidos toreros del Perú, españa y otros paises de América.</string>
+    <string name="ocho_diciembre">Festividad de la Inmaculada Concepción. En las provincias del Perú se realizan novenas, misas y procesiones.</string>
+    <string name="diciembre">Navidad del niño Dios.</string>
+
+    <string name="plaza_mayor">Centro de Lima.
+Fue el lugar donde Francisco Pizarro fundó la ciudad de Lima en 1535. A su alrededor están los principales palacios de la época colonial,
+        como el Palacio de Gobierno, La Catedral y la Municipalidad de Lima Metropolitana. En el centro de la Plaza hay una imponente pileta
+        de bronce construida en el siglo XVII.</string>
+    <string name="palacio_gobierno">Plaza Mayor de Lima. Visitas: Lun a Vie de 8:30 ama a 1pm; y de 2 a 5pm. Tel: 311-3908. El ingreso es gratuito
+        pero se debe reservar con dos días de anticipación.
+Fue la residencia del conquistador Francisco Pizarro quien la edificó sobre lo que fuera la residencia de Taulichusco, antiguo curaca del valle del Rímac.
+        Contiene diversos salones y patios dedicados a distinguidos personajes de la historia del Perú y decorados cuidadosamente con notables obras de arte.
+        Todos los días a las 11:45 am, en la explanada principal, se realiza el cambio de guardia de los Húsares de junín.</string>
+    <string name="circuito_magico">Av. Petit Thouars esquina con  Jr. Madre de Dios. Parque de la Reserva, Santa Beatriz. Tel.: 4240827 / 3310353.
+        Horarios: Lun a dom y feriados de 6am a 1pm. (Ingreso libre / fuentes en mantenimiento). Mié a dom y feriados de 3pm a 10:30pm. Show de luces: 7:15pm, 8:15pm y 9:30pm. Entrada General: S/.4.00
+Está ubicado en el Parque de la Reserva y es uno de los más visitados atractivos turísticos de Lima. Ostenta el récord Guinness para el complejo de fuentes más grande del mundo en un parque público.
+        Comprende 13 impresionantes piletas ornamentales y 9 hermosas fuentes que combinan movimiento, luces, sonidos e imágenes. El espectáculo de noche es imperdible.</string>
+    <string name="museo_nacion">Av. Javier Prado Este 2465, San Borja. Tel.: 476 9875. Horario: Mar. a Dom. de  9am a 6pm.  Entrada: Adultos S/.6.00,
+        Estudiantes S/.3.00.  Web site: http://inc.perucultural.org.pe/expo1.shtml
+Exhibe en grandes espacios ordenados cronológicamente todas las manifestaciones pre hispánicas entre 14,000 a.C. y 1,532 d.C. Exposición de cerámicas y
+        réplicas de sitios arqueológicos de todo el Perú. </string>
+    <string name="catedral">Plaza Mayor s/n, Cercado de Lima. Tel.: 427-9647. Horarios: Lun. a Vie. de 9am a 5pm y Sáb. de 10am a 1pm. Entrada: Adultos S/.10.00 y Estudiantes S/.5.00
+En general, la Catedral de Lima a pesar de su unidad arquitectónica, posee varios estilos, desde el gótico tardío, el renacentista hasta el barroco y plateresco.
+        Por la fecha del inicio de la construcción, el estilo arquitectónico es renacentista. Sin embargo, cabe destacar sus bóvedas de crucería y su portada principal con adornos platerescos.
+        La Catedral es en sí una perfecta síntesis de los estilos arquitectónicos por los cuales ha atravesado la ciudad de Lima desde sus orígenes hasta el día de hoy.</string>
+    <string name="museo_arqueologia_antropologia">Jr. Julio C. Tello, cuadra 8 - Plaza Bolívar, Pueblo Libre. Tel.: 463 5070. Horario: Mar. a Sáb. de 9am - 5pm, y Dom. de 9am - 4pm. Entrada: Adultos S/.10.00, Estudiantes S/.3.00. Web site: http://mnaah.perucultural.org.pe
+Objetos y especímenes pre hispánicos, obras maestras de las culturas del antiguo Perú. Objetos históricos de las épocas colonial y republicana. Destacan la Estela de Raymondi, el Obelisco Tello, huacos retratos y fardos funerarios.</string>
+    <string name="museo_larco_herrera">Av. Bolívar 1515, Pueblo Libre. Tel.: 461 1312. Horarios: Todos los días de 9am - 6pm. Entrada: Adultos S/.30.00, Estudiantes S/.15.00. Web site: http://museolarco.perucultural.org
+Las obras de arte de este museo han sido exhibidas en los más prestigiosos museos del mundo. Posee alrededor de 50,000 piezas de cerámica principalmente de las culturas pre incas Moche y Chimú, además de una colección de
+        huacos eróticos, textiles y objetos de plata y oro. Es la colección de arte prehispánico más grande del mundo dispuesto en diversos ambientes, entre los que destacan La Bóveda, la Sala Erótica y el Taller de Conservación.</string>
+    <string name="iglesia_santo_domingo">Esquina del Jr. Conde de Superunda con el Jr. Camaná. Tel.: 427-6793. Visitas:  Lun a  Sab de 9am a 12:30m; y de 5 a 6pm. Dom y feriados de 9am a 1pm. Entrada: Adultos S/.5.00 y Estudiantes S/.2.00.
+La construcción del templo y el Convento de Santo Domingo comenzó con la fundación de Lima y se concluyó a fines del siglo XVI. Por la portada lateral de izquierda a derecha encontramos los siguientes retablos o altares:
+        Altar de San Jacinto de Polonia, Altar de San José, Altar de Santo Domingo de Guzmán, Altar de Nuestra Señora del Rosario, Altar de los Santos Peruanos, Altar de las Aminas, Altar de Santo Tomás de Aquino, Altar del Sagrado Corazón de Jesús,
+        Capilla del Señor de la Justicia y la Capilla de la Cofradía del Rosario. El más importante es el Altar de los Santos Peruanos, de estilo neoclásico. En el centro se halla la imagen de Santa Rosa de Lima, al lado izquierdo esta San Martín de Porres y a la derecha San Juan Masías.
+        En la parte inferior de estas imágenes, se encuentran relicarios en donde reposan los restos de cada uno de estos santos.</string>
+    <string name="larcomar">Malecón de la Reserva 610, al final de la Av. Larco, Miraflores. Web site: www.larcomar.com
+Es un centro comercial que rápidamente se ha convertido en un lugar muy concurrido por turistas y residentes. No es muy grande pero está ubicado en un hermoso malecón por el que se pueden realizar
+        caminatas con impresionantes vistas del mar. En Larcomar se pueden encontrar discotecas para todos los gustos, cafes, bares, bolos, librerías, restaurantes muy prestigiosos, cine, teatro,
+        tiendas de ropa y artesanía, y un impresionante museo de oro.</string>
+    <string name="iglesia_san_francisco">Esquina del Jr. Ancash con el Jr. Lampa, Cercado de Lima. Tel.: 427 1381. Horarios del Museo: Todos los días de 9:30am - 5:30pm. Horarios de la Iglesia: Todos los días de 7am -11 am, y de 4pm - 8pm. Entrada: Adultos S/.7.00 y Estudiantes S/.3.50
+Data del siglo XVII y es uno de los más importantes centros religiosos, culturales y artísticos de todo el Perú. Lo más sobrecogedor de este edificio son las catacumbas, que impresionan a más de uno ya que fueron el antiguo cementerio en los tiempos coloniales.
+        Estuvo funcionando como tal hasta 1810 y se calcula que en aquella época debió albergar hasta 25.000 personas. Hoy se pueden observar en las distintas salas un buen número de huesos clasificados por tipos y dispuestos en algunas ocasiones de forma bastante “artística”,
+        como los de la fosa común. Algunas puertas de esta cripta - que según algunas hipótesis conducen a corredores que comunican con otras iglesias e incluso con el palacio de Gobierno - hacen de este lugar un espacio estremecedor.</string>
+    <string name="ceviche">El ceviche es el plato más representativo del país. Se prepara con pescado, limón, ají y cebolla. Su origen se remonta a la costumbre indígena del norte del país de comer pescado crudo.
+El pescado fresco se corta y se cuece en limón. Se puede acompañar de distintos ingredientes, entre los que encontramos el camote o boniato sancochado (cocinado en agua hirviendo), la patata hervida, el choclo o maíz, y la cancha (maíz tostado).</string>
+    <string name="anticuchos">Es un plato bastante típico en Lima, por lo que los visitantes no pueden irse de la ciudad sin haber degustado una porción de esta elaboración. Son brochetas de corazón de res maceradas en ají panca (una especie de chile) y vinagre.
+Éstas se fríen a la parrilla y se sirven con patatas cocidas y ají. Este plato proviene de los esclavos de origen africano que habitaron el territorio durante la época colonial. Los limeños no comen anticuchos durante el Viernes Santo,
+        pues en este día de Semana Santa tradicionalmente no se come carne.</string>
+    <string name="aji_gallina">Este delicioso plato picante se cocina a base de gallina, queso, leche, nueces y ají. La gallina se tiene que cocer y, por otro lado, mezclar ají amarillo con pan molido, leche y pecanas (una especie de nuez).</string>
+    <string name="lomo_saltado">Este delicioso plato se prepara con lomo de res, tomate, cebolla y ají. Se sirve con patatas fritas y arroz. Tiene influencias tanto indígenas como europeas y asiáticas, ya que se saltea con la técnica utilizada en China.</string>
+    <string name="tacutacu">Recalentado de frejoles revueltos con arroz acompañados de bistec apanado y salsa de cebollas.</string>
+    <string name="causa_rellena">La causa es un plato con mucha historia en la gastronomía peruana, data de la época de la emancipación, y su creación fue una genial improvisación de una señora patriota que no tenía más que 
+        papa para alimentar a los hambrientos soldados peruanos. El general de la tropa al preguntarle el nombre del singular platillo, no obtuvo respuesta alguna. Ante esta situación, el hábil e ingenioso militar no dudó en 
+        bautizar el platillo como “por la causa”. A través de los años el nombre se redujo solamente ha “Causa”.</string>
+    <string name="pollo_brasa">Dicen que el pollo a la brasa es el plato más popular de Perú, lo que más se consume en los restaurantes llamados acertadamente pollerías. Este plato es relativamente joven,
+        creado a mediados del siglo pasado por el ciudadano suizo Roger Schuler en su célebre restaurante La Granja Azul, ubicado en las afueras de Lima. Fue Schuler quien también inventó el sofisticado horno para prepararlos. 
+        Transcurridos 50 años desde su nacimiento, el pollo a la brasa dejó ser un exclusivo platillo para convertirse en el plato más popular de la gastronomía peruana.</string>
+    <string name="escabeche">El escabeche caliente es pollo dorado en un macerado de vinagre con cebollas largas ají amarillo se sirve con arroz aceituna y huevos cocidos en rodajas.</string>
+    <string name="arroz_con_pollo">Este tradicional plato de la costa de nuestro país consiste en arroz cocinado y encima se le coloca su presa de pollo, lleva un perfecto equilibrio entre los ingredientes como la cebolla,
+        choclo, arverja, el pimiento, zanahoria en cuadraditos y sazonado con culantro, ajo, pimienta, sal al gusto, todo esto con un recién graneado arroz. Hay personas que suelen echarle apio, habichuelas, aceitunas, alcaparras y laurel.</string>
+    <string name="papa_rellena">El plato consiste en una masa de papa cocida, que envuelve un relleno elaborado con carne de vacuno, cebollas, aceitunas y huevos duros, todos estos picados.
+        Una vez armada la masa con el relleno, se lleva a freír hasta que dore. Otras variaciones reemplazan la carne picada por otros ingredientes, como queso.</string>
+
+
 </resources>

@@ -15,6 +15,10 @@ public class Attraction {
         mTitle = title;
         mDescription = description;
     }
+    public Attraction(String title, String description){
+        mTitle = title;
+        mDescription = description;
+    }
 
     public void setmDescription(String mDescription) {
         this.mDescription = mDescription;
