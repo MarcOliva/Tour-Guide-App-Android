@@ -18,23 +18,23 @@ import java.util.ArrayList;
 
 public class AttractionAdapter extends ArrayAdapter<Attraction> {
     public AttractionAdapter(@NonNull Context context, ArrayList<Attraction> attraction) {
-        super(context, 0,attraction);
+        super(context, 0, attraction);
     }
 
     @NonNull
     @Override
     public View getView(int position, @Nullable View convertView, @NonNull ViewGroup parent) {
         View listItemView = convertView;
-        if(listItemView == null){
-            listItemView = LayoutInflater.from(getContext()).inflate(R.layout.list_item,parent,false);
+        if (listItemView == null) {
+            listItemView = LayoutInflater.from(getContext()).inflate(R.layout.list_item, parent, false);
         }
         Attraction currentAttraction = getItem(position);
 
         ImageView attractionImageView = listItemView.findViewById(R.id.attraction_image);
-        if (currentAttraction.hasImage()){
+        if (currentAttraction.hasImage()) {
             attractionImageView.setImageResource(currentAttraction.getmImageResourceId());
             attractionImageView.setVisibility(View.VISIBLE);
-        }else{
+        } else {
             attractionImageView.setVisibility(View.GONE);
         }
 
@@ -46,18 +46,19 @@ public class AttractionAdapter extends ArrayAdapter<Attraction> {
 
         return listItemView;
     }
+
     // limit the amount of words that will be seen in the description
     private String limitDescription(String description) {
         int lengthDescription = description.length();
         String result = null;
-        if(lengthDescription>60){
-            result = description.substring(0,50);
+        if (lengthDescription > 60) {
+            result = description.substring(0, 50);
         }
-        if (lengthDescription<=60 && lengthDescription>40){
-            result = description.substring(0,40);
+        if (lengthDescription <= 60 && lengthDescription > 40) {
+            result = description.substring(0, 40);
         }
-        if (lengthDescription<=40){
-            result = description.substring(0,lengthDescription);
+        if (lengthDescription <= 40) {
+            result = description.substring(0, lengthDescription);
             return result;
         }
 

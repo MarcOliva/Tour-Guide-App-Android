@@ -5,17 +5,18 @@ package oliva.marc.com.tourguide;
  */
 
 public class Attraction {
-    private static final int NO_IMAGE =-1 ;
+    private static final int NO_IMAGE = -1;
     private int mImageResourceId = NO_IMAGE;
     private String mTitle;
     private String mDescription;
 
-    public Attraction(String title, String description, int imageResourceId){
+    public Attraction(String title, String description, int imageResourceId) {
         mImageResourceId = imageResourceId;
         mTitle = title;
         mDescription = description;
     }
-    public Attraction(String title, String description){
+
+    public Attraction(String title, String description) {
         mTitle = title;
         mDescription = description;
     }
@@ -43,7 +44,8 @@ public class Attraction {
     public String getmTitle() {
         return mTitle;
     }
-    public boolean hasImage(){
-        return mImageResourceId!=NO_IMAGE;
+
+    public boolean hasImage() {
+        return mImageResourceId != NO_IMAGE;
     }
 }

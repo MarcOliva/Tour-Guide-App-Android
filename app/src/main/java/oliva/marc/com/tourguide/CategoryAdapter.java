@@ -20,12 +20,17 @@ public class CategoryAdapter extends FragmentPagerAdapter {
 
     @Override
     public Fragment getItem(int position) {
-        switch (position){
-            case 0: return new GastronomyFragment();
-            case 1: return new TouristAttractionsFragment();
-            case 2: return new CitiesDistanceFragment();
-            case 3: return new TouristCalendarFragment();
-            default: return null;
+        switch (position) {
+            case 0:
+                return new GastronomyFragment();
+            case 1:
+                return new TouristAttractionsFragment();
+            case 2:
+                return new CitiesDistanceFragment();
+            case 3:
+                return new TouristCalendarFragment();
+            default:
+                return null;
         }
     }
 
@@ -37,12 +42,17 @@ public class CategoryAdapter extends FragmentPagerAdapter {
     @Nullable
     @Override
     public CharSequence getPageTitle(int position) {
-        switch (position){
-            case 0: return mContext.getString(R.string.category_gastronomy);
-            case 1: return mContext.getString(R.string.category_tourist_attraction);
-            case 2: return mContext.getString(R.string.category_cities_distance);
-            case 3: return mContext.getString(R.string.category_tourist_calendar);
-            default: return null;
+        switch (position) {
+            case 0:
+                return mContext.getString(R.string.category_gastronomy);
+            case 1:
+                return mContext.getString(R.string.category_tourist_attraction);
+            case 2:
+                return mContext.getString(R.string.category_cities_distance);
+            case 3:
+                return mContext.getString(R.string.category_tourist_calendar);
+            default:
+                return null;
         }
     }
 }
