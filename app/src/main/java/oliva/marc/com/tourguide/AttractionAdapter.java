@@ -42,25 +42,31 @@ public class AttractionAdapter extends ArrayAdapter<Attraction> {
         attractionTitleTextView.setText(currentAttraction.getmTitle());
 
         TextView attractionDescriptionTextView = listItemView.findViewById(R.id.attraction_description);
-        attractionDescriptionTextView.setText(limitDescription(currentAttraction.getmDescription()));
+        attractionDescriptionTextView.setText(limitDescription(currentAttraction.getmDescription(),currentAttraction.getmTitle()));
 
         return listItemView;
     }
 
     // limit the amount of words that will be seen in the description
-    private String limitDescription(String description) {
+    private String limitDescription(String description, String title ) {
         int lengthDescription = description.length();
         String result = null;
-        if (lengthDescription > 60) {
-            result = description.substring(0, 50);
+        if(title.length()>30 && lengthDescription>20){
+            result = description.substring(0, 20);
+        }else{
+            if (lengthDescription > 60) {
+                result = description.substring(0, 40);
+            }
+            if (lengthDescription <= 60 && lengthDescription > 40) {
+                result = description.substring(0, 30);
+            }
+            if (lengthDescription <= 40) {
+                result = description.substring(0, lengthDescription);
+                return result;
+            }
         }
-        if (lengthDescription <= 60 && lengthDescription > 40) {
-            result = description.substring(0, 40);
-        }
-        if (lengthDescription <= 40) {
-            result = description.substring(0, lengthDescription);
-            return result;
-        }
+
+
 
         return result + "...";
     }
